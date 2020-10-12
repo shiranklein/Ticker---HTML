@@ -1,0 +1,29 @@
+﻿.glyphicon
+{
+    margin-right:4px !important; /*override*/
+}
+
+.pagination .glyphicon
+{
+    margin-right:0px !important; /*override*/
+}
+
+.pagination a
+{
+    color:#555;
+}
+
+.panel ul
+{
+    padding:0px;
+    margin:0px;
+    list-style:none;
+}
+
+.content-wrapper {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 960px;
+  max-width: 500px;
+}
+
